@@ -44,3 +44,4 @@ C:\Users\hmztp\Desktop\MicroservicesApp\Flight.Microservice\Flight.API\obj\Debug
 C:\Users\hmztp\Desktop\MicroservicesApp\Flight.Microservice\Flight.API\obj\Debug\net9.0\Flight.API.pdb
 C:\Users\hmztp\Desktop\MicroservicesApp\Flight.Microservice\Flight.API\obj\Debug\net9.0\Flight.API.genruntimeconfig.cache
 C:\Users\hmztp\Desktop\MicroservicesApp\Flight.Microservice\Flight.API\obj\Debug\net9.0\ref\Flight.API.dll
+C:\Users\hmztp\Desktop\MicroservicesApp\Flight.Microservice\Flight.API\obj\Debug\net9.0\Flight.API.sourcelink.json

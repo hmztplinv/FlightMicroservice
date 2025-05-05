@@ -1,3 +1,5 @@
+namespace Booking.Microservice.Messages
+{
 public class BookingCreatedEvent
     {
         public string BookingId { get; set; }
@@ -7,3 +9,4 @@ public class BookingCreatedEvent
         public decimal Price { get; set; }
         public DateTime BookingDate { get; set; }
     }
+}

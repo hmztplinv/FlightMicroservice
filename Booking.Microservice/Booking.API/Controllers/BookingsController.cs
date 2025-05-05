@@ -1,6 +1,7 @@
 
 using Booking.API.Models;
 using Booking.API.Repositories;
+using Booking.Microservice.Messages;
 using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 
